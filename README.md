@@ -60,3 +60,40 @@ This repository contains my notes, activities, and reflections from the college 
 > Listening to seniors, alumni, professors, and industry experts gave us a clear vision of the opportunities ahead. The speeches encouraged us to work hard, prepare early for our careers, and make the most of our time at GNDEC.
 
 ---
+## 📅 Day 2 – Tests, Scholarships & Workshops
+**Date:** 2nd August 2025  
+
+### Activities:
+- **9:30 AM – 10:30 AM:** English Proficiency Test  
+  - 30-mark test, 50 minutes in duration.  
+  - Divided into 3 sections:
+    - **Section A:** Reading comprehension  
+    - **Section B:** Writing skills  
+    - **Section C:** Basic grammar  
+  - Helped assess our current level of English communication skills.  
+
+- **10:30 AM – 11:30 AM:** Mathematics Proficiency Test  
+  - Tested basic problem-solving, arithmetic, and logical reasoning skills.  
+
+- **Post-Break:** Session by *Buddy4Study* Representative  
+  - Introduced the **Satya Scholarship Program**.  
+  - Explained eligibility criteria, application process, and benefits of financial support for students in need.  
+
+- **2:00 PM – Expert Lecture by Dr. Arashdeep Singh**  
+  - Topic: *"Food: A Pivotal Role in Student's Overall Wellness"*  
+  - Spoke about how nutrition directly impacts concentration, energy, and academic performance.  
+  - Shared tips for maintaining a balanced diet in hostel life, avoiding excessive junk food, and staying hydrated.  
+  - Encouraged students to develop mindful eating habits for better physical and mental health.  
+
+- **3:00 PM – Session by Causmic Club & Launch of Induction Activities**  
+  - Venue: Auditorium  
+  - Provided hands-on guidance on **GitHub usage**:
+    - Creating an account  
+    - Making a repository  
+    - Adding and formatting files in Markdown  
+  - Informed us that we need to prepare an **Induction Report** on GitHub as part of our program.  
+
+---
+
+### Reflection:
+> Day 2 was a mix of evaluation and learning. The proficiency tests helped identify areas to improve, the scholarship session gave hope to those needing financial aid, and the lecture on wellness highlighted how lifestyle choices impact academics. The GitHub workshop was highly practical, giving us the tools to start our first technical project.
