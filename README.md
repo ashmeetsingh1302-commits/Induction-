@@ -4,7 +4,7 @@ This repository contains my notes, activities, and reflections from the college 
 
 ---
 
-## 📅 Day 1 – Introduction
+##  Day 1 – Introduction
 **Date:** 1st August 2025  
 
 ### Activities:
@@ -60,7 +60,7 @@ This repository contains my notes, activities, and reflections from the college 
 > Listening to seniors, alumni, professors, and industry experts gave us a clear vision of the opportunities ahead. The speeches encouraged us to work hard, prepare early for our careers, and make the most of our time at GNDEC.
 
 ---
-## 📅 Day 2 – Tests, Scholarships & Workshops
+##  Day 2 – Tests, Scholarships & Workshops
 **Date:** 2nd August 2025  
 
 ### Activities:
@@ -97,3 +97,26 @@ This repository contains my notes, activities, and reflections from the college 
 
 ### Reflection:
 > Day 2 was a mix of evaluation and learning. The proficiency tests helped identify areas to improve, the scholarship session gave hope to those needing financial aid, and the lecture on wellness highlighted how lifestyle choices impact academics. The GitHub workshop was highly practical, giving us the tools to start our first technical project.
+
+## Day 3 – Science & Spirituality, Human Values
+**Date:** 3rd August 2025  
+
+### Activities:
+
+- **9:00 AM – 11:00 AM:** Expert Lecture by Dr. Jaswinder Singh (Incharge – IAPT)  
+  - Venue: Auditorium  
+  - Dr. Jaswinder Singh, widely known for his *JaswinS Lab on Wheels*, made science exciting by performing **live demonstrations** using simple equipment.  
+  - The focus was on **Physics and Mathematics** concepts such as **sound, vibrations**, and motion – all shown through practical, fun experiments.  
+  - He inspired us not just scientifically, but spiritually as well, by discussing the concept of **"Ik Onkar"** and connecting science with deeper philosophical meaning.  
+  - His dedication to making education more accessible has earned him a **State Award** and **two National Awards**.  
+
+- **11:00 AM – 1:00 PM:** Lecture on Universal Human Values by Priya Darshni Ma’am  
+  - Venue: Auditorium  
+  - She emphasized the importance of **empathy, honesty, gratitude, and respect** in both personal and professional life.  
+  - We were guided to reflect on our **role in society**, the value of relationships, and how to lead a **purpose-driven and ethical life**.  
+  - The session also highlighted how values influence long-term success, happiness, and harmony in a community.
+
+---
+
+### Reflection:
+> Day 3 was truly inspiring. Dr. Jaswinder Singh’s blend of science and spirituality changed the way we look at learning. His message about curiosity and purpose deeply resonated with me. Priya Darshni Ma’am’s lecture helped me reflect on my core values and how they should guide my actions during college and beyond.
