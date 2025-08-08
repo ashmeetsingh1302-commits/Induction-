@@ -120,3 +120,58 @@ This repository contains my notes, activities, and reflections from the college 
 
 ### Reflection:
 > Day 3 was truly inspiring. Dr. Jaswinder Singh’s blend of science and spirituality changed the way we look at learning. His message about curiosity and purpose deeply resonated with me. Priya Darshni Ma’am’s lecture helped me reflect on my core values and how they should guide my actions during college and beyond.
+
+#  Day 4 – Learning & Values  
+** Date:** 4th August 2025  
+
+---
+
+## 🧑‍🏫 Activities
+
+### ⏰ 9:30 AM – 10:30 AM: P2P Classes – C++ Programming Basics
+- This session was conducted by our seniors to help us understand the **basics of C++ programming**.
+- We were introduced to:
+  - `Hello World` program
+  - Input/Output operations
+  - If-else conditions
+  - Loops (`for`, `while`)
+- Seniors made the session interactive and encouraged regular practice for better understanding.
+
+---
+
+### ⏰ 10:30 AM – 11:30 AM: BEEE (Basics of Electrical and Electronics Engineering)
+- Our introductory class of **BEEE** focused on:
+  - Electrical circuits
+  - Basic electronics components
+  - Everyday applications in technology
+- The faculty warmly welcomed us and shared how important this subject is for all engineers.
+
+---
+
+### ⏰ 11:30 AM – 12:30 PM: **Break Time**
+- A break to relax and recharge before the afternoon expert sessions.
+
+---
+
+### ⏰ 12:30 PM – 2:30 PM: Expert Lecture by Dr. Priya Darshni – *"Universal Human Values – Part 2"*
+- The lecture focused on building **inner strength**, **emotional intelligence**, and **moral responsibility**.
+- Key topics discussed:
+  - Importance of **self-reflection** and mindfulness
+  - Cultivating empathy and mutual respect
+  - How **gratitude and ethical living** shape a healthy society
+- The session inspired us to focus on personal growth beyond academics.
+
+---
+
+### ⏰ 2:30 PM – 3:30 PM: Session by Causmic Club – Git & Project Induction
+- The Causmic Club conducted a practical session on:
+  - Using **Git & GitHub** effectively
+  - How to create repositories, use commits, and manage version control
+  - Structuring our **induction project repository**
+- We also received guidance on collaboration, maintaining documentation, and presenting work professionally.
+
+---
+
+## 🪞 Reflection
+
+> Day 4 was a perfect blend of **technical learning** and **value-based thinking**. The coding session built our confidence, and BEEE introduced us to core engineering. Dr. Priya Darshni Ma’am’s session encouraged deep personal reflection, while the Causmic Club prepared us for real-world teamwork and tools like GitHub.
